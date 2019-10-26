@@ -1,6 +1,6 @@
 #include "diary.h"
-int memo()
-{
-	printf("function memo.\n");
+
+int memo(){
+	printf("memo function.\n");
 	return 0;
 }
