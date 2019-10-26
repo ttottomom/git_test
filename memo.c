@@ -1,5 +1,5 @@
 #include "diary.h"
 int memo(){
-	printf("function memo.\n");
+	printf("memo function.\n");
 	return 0;
 }
