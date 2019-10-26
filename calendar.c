@@ -1,6 +1,6 @@
 #include "diary.h"
 int calendar(){
-	printf("function calendar.\n");
+	printf("calendar function.\n");
 	return 0;
 }
 
